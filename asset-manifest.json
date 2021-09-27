@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lush_clone/static/css/main.ac12e45d.chunk.css",
+    "main.js": "/lush_clone/static/js/main.8dfdb6e0.chunk.js",
+    "main.js.map": "/lush_clone/static/js/main.8dfdb6e0.chunk.js.map",
+    "runtime-main.js": "/lush_clone/static/js/runtime-main.912b6807.js",
+    "runtime-main.js.map": "/lush_clone/static/js/runtime-main.912b6807.js.map",
+    "static/css/2.cbd3ed15.chunk.css": "/lush_clone/static/css/2.cbd3ed15.chunk.css",
+    "static/js/2.922a1542.chunk.js": "/lush_clone/static/js/2.922a1542.chunk.js",
+    "static/js/2.922a1542.chunk.js.map": "/lush_clone/static/js/2.922a1542.chunk.js.map",
+    "index.html": "/lush_clone/index.html",
+    "static/css/2.cbd3ed15.chunk.css.map": "/lush_clone/static/css/2.cbd3ed15.chunk.css.map",
+    "static/css/main.ac12e45d.chunk.css.map": "/lush_clone/static/css/main.ac12e45d.chunk.css.map",
+    "static/js/2.922a1542.chunk.js.LICENSE.txt": "/lush_clone/static/js/2.922a1542.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lush_clone/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912b6807.js",
+    "static/css/2.cbd3ed15.chunk.css",
+    "static/js/2.922a1542.chunk.js",
+    "static/css/main.ac12e45d.chunk.css",
+    "static/js/main.8dfdb6e0.chunk.js"
+  ]
+}
